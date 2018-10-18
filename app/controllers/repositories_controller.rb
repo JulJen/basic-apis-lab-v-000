@@ -1,6 +1,6 @@
 class RepositoriesController < ApplicationController
-  @@client_id = 'Iv1.08fca863667775d4'
-  @@client_secret = '8736b729987fb0a380e82491db75e5bef285eeaa'
+  @@client_id = '553cb02f42031bf618a8'
+  @@client_secret = '2fbd2057eb190e65291ce5595e1eb23b3da848dd'
 
   def search
 
